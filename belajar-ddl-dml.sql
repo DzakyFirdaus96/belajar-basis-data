@@ -60,7 +60,6 @@ MariaDB [sekolah]> INSERT INTO siswa VALUES ('66508574','ALQuery OK, 1 row affec
 
 
 
-INSERT INTO siswa VALUES ('61484143','ASEP RIZKI', 'L', 'SUBANG', '200...' at line 1
 MariaDB [sekolah]> INSERT INTO siswa VALUES ('61484143','ASEP RIZKI', 'L', 'SUBANG', '2006-07-06', 'CIJAMBE', '11-RPL-1', '93.67');
 Query OK, 1 row affected (0.011 sec)
 
